@@ -6,6 +6,8 @@ A version of the FiveM vehicle baseevents that are compatible with the newest ve
 
 The newest version of ESX prevents the use of baseevents. This plugin will allow you to use the vehicle events within baseevents, without having conflicts with ESX.
 
+This will once again allow you to use various scripts, dependant on baseevents.
+
 ## Download 
 ### Using Git
 - `cd resources`
